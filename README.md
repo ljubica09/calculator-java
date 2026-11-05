@@ -18,14 +18,14 @@ Broj linija koda utvrđen je korišćenjem GitHub prikaza LOC metrike za Java fa
 | Start.java | 19 |
 | **Ukupno** | **153** |
 
-Broj fizičkih linija u svim fajlovima:
+Broj fizičkih linija u fajlovima projekta:
 
 | Fajl | Fizičke linije |
 |---|---:|
-| Calculator.java | 188 |
+| Calculator.java | 184 |
 | Start.java | 26 |
 | LICENSE | 19 |
-| **Ukupno** | **233** |
+| **Ukupno** | **229** |
 
 ## 3. Neformalni pregled koda i statička analiza
 
