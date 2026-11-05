@@ -22,10 +22,10 @@ Broj fizičkih linija u fajlovima projekta:
 
 | Fajl | Fizičke linije |
 |---|---:|
-| Calculator.java | 184 |
+| Calculator.java | 188 |
 | Start.java | 26 |
-| LICENSE | 19 |
-| **Ukupno** | **229** |
+| LICENSE | 21 |
+| **Ukupno** | **235** |
 
 ## 3. Neformalni pregled koda i statička analiza
 
